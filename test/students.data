@@ -1,0 +1,9 @@
+[
+  {
+    "id": "696019",
+    "name": "Test Student",
+    "email": "test@university.com",
+    "password": "Password123",
+    "subjects": []
+  }
+]
